@@ -1,0 +1,9 @@
+Primeira parte: Conceitual
+Quais as tuas respostas quanto às seguintes questões:
+
+1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+
+2 - Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução OpenSource como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
+
+3 - O que seria um projeto Open Source? Como empresas podem adotar tais tecnologias e o que isso acarreta?
+
