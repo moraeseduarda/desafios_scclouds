@@ -7,3 +7,37 @@ Quais as tuas respostas quanto às seguintes questões:
 
 3 - O que seria um projeto Open Source? Como empresas podem adotar tais tecnologias e o que isso acarreta?
 
+ - Respostas 1: Primeiramente, o modelo OSI (interconexão de sistemas abertos) é um conceito que funciona como uma "linguagem" universal para rede de computadores.
+Possui 7 camadas. De cima para baixo: camada 7 - aplicação, camada 6 - apresentação, 5 camada - sessão, 4 camada - transporte, 3 camada - rede,
+2 camada - enlace de dados e 1 camada - física.
+
+A segunda camada, a camada de enlace de dados, é responsável por agir como "fiscal", observando se os pacotes tem algum defeito em sua formatação, realiza controle de erros e controle de fluxo.
+Semelhante a terceira camada, de rede, porém ela facilita a transferência de dados entre dois dispositivos da mesma rede. 
+Exemplos de protocolo de endereçamento na camada 2: Ethernet, PPP.
+
+A terceira camada, a camada de rede, nela há a criação de pacotes, montagem e transporte dos pacotes. A camada de rede é responsável por realizar
+a transferência de dados entre duas redes diferentes. 
+Exemplo de protocolo de endereçamento na camada 3: IP.
+
+ 
+- Respostas 2: Primeiramente, o Sistema Operacional (SO) Windows, não é de código aberto, já as distribuições linux são.
+Usar o windows, possui pontos positivos como grande compatibilidade com softwares mais populares como microsoft office (da propria microsoft),
+ter uma interface mais conhecida e ter suporte da microsoft.
+Isso também gera alguns pontos negativos, o usuário fica dependente do suporte da microsoft, a licença é paga (e pode ser cara) e há uma menor transparência
+pelo fato do software ser de código fechado.
+
+Ao usar linux, que é open source (código aberto) mantida pela comunidade, onde qualquer pessoa pode modificar e personalizar, também há pontos positivos
+e negativos. Entre os pontos positivos, gratuito, personalizável, colaborativo e ideal para pessoas que possuem conhecimento em programação, o que trás
+mais controle e transparência.
+Já os pontos negativos são a falta de suporte, e compatibilidade mais limitada com softwares populares (mais comercializados).
+
+- Respostas 3: Um projeto Open Source, é aquele que é desenvolvido em código aberto onde é possível haver contribuição aberta entre desenvolvedores
+de diversos lugares do mundo e o código fonte é divulgado publicamente.
+
+Empresas podem adotar o open source quando querem ter transparência sobre o uso de dados, possivelmente reduzir gastos, devido a não necessidade de pagar
+licença de uso, quando querem permitir personalização de seu software ou serviços para os usuários 
+(ex: diferentemente da SO windows, o linux é open source e de código aberto, portanto pessoas com conhecimento podem personalizá-lo).
+
+Porém, há também algumas dificuldades que adotar tecnologias open source, entre elas: necessidade de atualização manual do código, problemas de compatibilidade,
+falta de suporte e possível dificuldades para usuários sem conhecimentos em programação.
+
